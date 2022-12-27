@@ -1,0 +1,1 @@
+Use the "W" and "S" keys to control the right paddle, and the up and down arrows to control the right paddle.
